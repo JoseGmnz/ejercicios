@@ -20,7 +20,7 @@ El objetivo es documentar mi aprendizaje, poner en práctica los conocimientos a
 | — | Monumentos de España | Página web dedicada a distintos monumentos de España. | [Ver práctica](HISTORIA/index.html) |
 | — | Formularios HTML | Creación de formularios utilizando diferentes controles HTML. | [Ver práctica](formularios/practica.html) |
 | — | Blog | Desarrollo de la estructura de un blog mediante HTML. | [Ver práctica](Blog/practicaBlog.html) |
-| — | Práctica 06: CSS | Aplicación de estilos CSS para mejorar el diseño y la presentación de una página web. | [Ver práctica](Practica06/index.html) |
+| 17 de noviembre | Práctica 06: CSS | Aplicación de estilos CSS para mejorar el diseño y la presentación de una página web. | [Ver práctica](Practica06/index.html) |
 
 ---
 
