@@ -17,15 +17,17 @@ El objetivo es documentar mi aprendizaje, poner en práctica los conocimientos a
 |----------|-------------|----------------|-----------|
 | 8 de octubre | Semántica HTML | Uso de etiquetas semánticas para estructurar una página web. | [Ver práctica](semantica/base.html) |
 | 20 de octubre | Tablas HTML | Creación y organización de tablas en HTML. | [Ver práctica](TABLAS/practica01.html) |
-| 28 de octubre | Monumentos de España | Página web dedicada a distintos monumentos de España. | [Ver práctica](HISTORIA/index.html) |
-| 22 de octubre | Formularios HTML | Creación de formularios utilizando diferentes controles HTML. | [Ver práctica](formularios/practica.html) |
-| 29 de octubre | Blog técnico | Desarrollo de la estructura de un blog mediante HTML. | [Ver práctica](Blog/practicaBlog.html) |
+| — | Monumentos de España | Página web dedicada a distintos monumentos de España. | [Ver práctica](HISTORIA/index.html) |
+| — | Formularios HTML | Creación de formularios utilizando diferentes controles HTML. | [Ver práctica](formularios/practica.html) |
+| — | Blog | Desarrollo de la estructura de un blog mediante HTML. | [Ver práctica](Blog/practicaBlog.html) |
+| — | Práctica 06: CSS | Aplicación de estilos CSS para mejorar el diseño y la presentación de una página web. | [Ver práctica](Practica06/index.html) |
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 - 🌐 **HTML5:** estructura y contenido de páginas web.
+- 🎨 **CSS3:** diseño y estilos de páginas web.
 - 📝 **Markdown:** documentación del repositorio.
 - 💻 **Visual Studio Code:** editor de código.
 - 🐙 **GitHub:** almacenamiento y organización de las prácticas.
