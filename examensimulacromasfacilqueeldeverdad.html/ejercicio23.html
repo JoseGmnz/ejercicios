@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Extraordinaria</title>
+
+    <style>
+        p {
+            font-size: 16px;
+        }
+
+        div {
+            border: 2px solid blue;
+        }
+
+        h1 {
+            color: blue;
+        }
+
+        h2 {
+            color: green;
+            background-color: white;
+        }
+
+        body {
+            background-image: url("img/texturapapel.jpg");
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Este es mi examen</h1>
+
+    <div>
+        <p>
+            <a href="https://www.vedoque.com">Esta es una buena página </a>
+        </p>
+    </div>
+
+    <figure>
+        <img src="img/paisaje.webp"
+             alt="Paisaje"
+             height="100">
+        <figcaption>Esta es una gran imagen</figcaption>
+    </figure>
+
+    <h2>El examen está siendo fácil</h2>
+
+    <p>No esperaba que fuera tan fácil</p>
+
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Nota</th>
+        </tr>
+        <tr>
+            <td>Juan</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>María</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Pedro</td>
+            <td>7</td>
+        </tr>
+    </table>
+
+    <h3>Formulario</h3>
+
+    <form>
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre">
+
+        <p>Elige tu ciclo:</p>
+        <select name="ciclo">
+            <option value="asir">ASIR</option>
+            <option value="dam">DAM</option>
+            <option value="daw">DAW</option>
+        </select>
+
+        <p>Elige tu curso:</p>
+        <label>
+            <input type="radio" name="curso" value="1">
+            Primero
+        </label>
+        <label>
+            <input type="radio" name="curso" value="2">
+            Segundo
+        </label>
+
+        <p>Estudios anteriores:</p>
+        <label>
+            <input type="checkbox" name="bachillerato">
+            Bachillerato
+        </label>
+        <label>
+            <input type="checkbox" name="smr">
+            SMR
+        </label>
+
+        <p><button type="submit">Enviar</button></p>
+    </form>
+
+    <footer>
+        <p>Hoy sí que voy a aprobar.</p>
+    </footer>
+
+</body>
+</html>
